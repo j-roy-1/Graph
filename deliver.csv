@@ -1,14 +1,14 @@
-DeliverID,OriginName,DestinationName,itemName,Quantity
-1,site5,site4,ALUMINUM RODS,2
-2,site5,site9,STEEL RODS,11
-3,site9,site2,BELTS,11
-4,site5,site15,STEEL RODS,6
-5,site14,site4,ABS MODULE,2
-6,site2,site1,TIRES,5
-7,site2,site12,TIRES,11
-8,site11,site12,RUBBER,7
-9,site8,site14,CONTROLLER,3
-10,site7,site13,VALVE STEM,7
-11,site8,site13,CONTROLLER,5
-12,site15,site1,TRUCK RIM,7
-13,site4,site3,CAR RIMS,12
+DeliverID,OriginName,DestinationName,itemName,Quantity,Distance
+1,site5,site4,ALUMINUM RODS,2,6
+2,site5,site9,STEEL RODS,11,8
+3,site9,site2,BELTS,11,5
+4,site5,site15,STEEL RODS,6,15
+5,site14,site4,ABS MODULE,2,7
+6,site2,site1,TIRES,5,11
+7,site2,site12,TIRES,11,9
+8,site11,site12,RUBBER,7,1
+9,site8,site14,CONTROLLER,3,9
+10,site7,site13,VALVE STEM,7,8
+11,site8,site13,CONTROLLER,5,5
+12,site15,site1,TRUCK RIM,7,15
+13,site4,site3,CAR RIMS,12,15
