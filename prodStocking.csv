@@ -1,0 +1,7 @@
+Edge Type,StockingID,Source Vertex ID,Target Vertex ID,Target Vertex Type,amount
+prodStocking,1,SENSOR1467411871,SENSOR,product,5000000
+prodStocking,2,RUBBER,RUBBER1467411803,stocking,96100
+prodStocking,3,CONTROLLER1467411945,CONTROLLER,product,2900
+prodStocking,4,ALUMINUM RODS,ALUMINUM RODS1467411917,stocking,1740000
+prodStocking,5,VALVE STEM,VALVE STEM1467411893,stocking,10000000
+prodStocking,6,STEEL RODS,STEEL RODS1467411848,stocking,9080000
